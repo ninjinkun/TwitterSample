@@ -4,7 +4,7 @@ This program was inspired by psychs's [ImageStore](https://github.com/psychs/ima
 
 # How to use
 
-    git clone git@github.com:ninjinkun/TwitterSample.git
+    git clone https://github.com/ninjinkun/TwitterSample.git
     git submodule update --init
 
 # Legals
@@ -18,7 +18,10 @@ Reachability is copied from sample code of Apple:
 Unless otherwise noted,  TwitterSmple is licensed under New BSD License.
 
 This software also includes the following material which have their own license:
+
 * [Reachability](http://developer.apple.com/iphone/library/samplecode/Reachability/Introduction/Intro.html) (Apple's Original)
+
 * [ASIHTTPRequest](http://allseeing-i.com/ASIHTTPRequest/) (BSD)
+
 * [JSON Framework](http://code.google.com/p/json-framework/) (BSD)
 
